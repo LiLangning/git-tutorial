@@ -4,4 +4,4 @@
 
 - feature-A
 - fix-B
-- feature-C
+- git reset --hard hashvalue
